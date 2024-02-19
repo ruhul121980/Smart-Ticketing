@@ -77,7 +77,7 @@ for (const seat of seatButton) {
             }
             
             else{
-                alert("You can not buy more then 5 tickets");
+                alert("You can not buy more then 4 tickets");
             }
 
        
